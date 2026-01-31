@@ -32,6 +32,7 @@ Picture a scenario: your friend, known for their carefree nature, habitually kee
 |:---:|:---:|:---:|
 | ![Windows 8 Prank](./assets/windows%208.png) | ![Windows 10 Prank](./assets/windows%2010.png) | ![Windows 11 Prank](./assets/windows%2011.png) |
 
+
 ## Installation
 > For now, this will not work in very old browsers like Internet Explorer, instead you should use Firefox, Chrome, etc
 
