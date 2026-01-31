@@ -2,6 +2,7 @@
 Pull a Hilarious Prank on Your Friends with a Fake Windows Update and Surprise Blue Screen of Death!.
 Add a touch of fun to your day by hosting the best Windows themed prank. This repository hosts a cleverly designed website that flawlessly replicates the infamous Windows update process, spanning various versions of Windows like XP, Vista, 7, 8, 10, and even 11.
 
+
 This repository is inspired by https://github.com/dartzcn/fakeupdate, and the classic [fakeupdate.net](https://fakeupdate.net)
 
 ## Table of Contents
