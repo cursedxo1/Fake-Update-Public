@@ -26,7 +26,8 @@ Picture a scenario: your friend, known for their carefree nature, habitually kee
 
 | Windows XP | Windows Vista | Windows 7 |
 |:---:|:---:|:---:|
-| ![Windows XP Prank](./assets/windows%20xp.png) | ![Windows Vista Prank](./assets/windows%20vista.png) | ![Windows 7 Prank](./assets/windows%207.png) |
+| ![Windows XP Prank](./assets/windows%20xp.png) 
+| ![Windows Vista Prank](./assets/windows%20vista.png) | ![Windows 7 Prank](./assets/windows%207.png) |
 
 | Windows 8 | Windows 10 | Windows 11 |
 |:---:|:---:|:---:|
